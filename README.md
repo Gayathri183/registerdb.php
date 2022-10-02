@@ -1,0 +1,1 @@
+# registerdb.php
